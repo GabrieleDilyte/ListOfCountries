@@ -1,0 +1,9 @@
+.singleCounty {
+  background: #5a6272;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin: 10px;
+  padding: 10px;
+}

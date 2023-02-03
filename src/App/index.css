@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.App-header {
+  min-height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-left: 10px;
+}
+
+.Section {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}

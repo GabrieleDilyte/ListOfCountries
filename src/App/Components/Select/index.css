@@ -1,0 +1,11 @@
+select {
+  height: 30px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 19px;
+  color: black;
+  padding: 6px;
+  border-radius: 4px;
+  border: none;
+  margin: 10px;
+}
